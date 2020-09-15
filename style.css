@@ -31,3 +31,20 @@
 .content {
   margin: 0 3%;
 }
+
+@media only screen and (max-width: 768px) {
+  body {
+    background-color: yellow;
+  }
+
+  .pic {
+    width: 70%;
+    margin-left: 5%;
+    margin-right: 7%;
+    padding: 3%;
+    align-content: center;
+  }
+
+  
+
+}
