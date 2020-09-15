@@ -1,0 +1,16 @@
+.header {
+  text-align: center;
+  font-size: 64px;
+  color: #FFFFFF;
+}
+
+.subheading {
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.heading {
+  background: #000000;
+  margin: 50px 0;
+  padding: 50px 0;
+}
